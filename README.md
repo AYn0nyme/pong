@@ -1,4 +1,4 @@
-## pong
+# pong
 
 Just a pong-like game made in SDL3, it's very optimized and very fun to play!!!1!
 
